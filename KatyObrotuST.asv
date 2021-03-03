@@ -1,0 +1,5 @@
+function (Byxy)=KatyObrotuST (alpha1 beta alpha2)
+Bx1=[ 1 0 0 ;0 cos(alpha1) -sin(alpha1) ;0 sin(alpha1) cos(alpha1)]
+By= [cos(beta
+Bx2=[ 1 0 0 ;0 cos(alpha) -sin(alpha) ;0 sin(alpha) cos(alpha)]
+Bxyx=Bx2*By*Bx1
